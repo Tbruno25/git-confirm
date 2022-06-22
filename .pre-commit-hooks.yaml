@@ -3,4 +3,3 @@
     description: catch placeholders and temporary changes (TODO / @ignore) 
     entry: hook.sh
     language: script
-    types: [file]
