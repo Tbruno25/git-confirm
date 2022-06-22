@@ -1,0 +1,5 @@
+-   id: git-confirm
+    name: confirm temp changes
+    description: catch placeholders and temporary changes (TODO / @ignore) 
+    entry: hook.sh
+    language: script
